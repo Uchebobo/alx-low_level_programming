@@ -3,7 +3,7 @@
 
 /*
  * File: variadic_functions.h
- * Author: Philia Hammond
+ * Author: Obasi Uchechukwu 
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x0F-variadic_functions directory.
  */
